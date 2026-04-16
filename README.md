@@ -5,9 +5,13 @@
 
 # 💫 About Me:
 🔭 I’m currently working on AI research and automation-driven systems with a focus on real-world deployment 
-🎓 Dual Degree Student @ IIT Madras (Data Science -- not BS degree 🤡) 
+
+🎓 Dual Degree Student @ IIT Madras (Data Science -- no BS 😉) 
+
 🤝 I’m looking to collaborate on agentic AI, LLM systems, and applied research projects  
+
 🌱 I’m currently learning advanced computer vision, multimodal models, and LLM post-training techniques  
+
 ⚡ Fun fact: I like building full-stack AI systems — not just training models  
 
 
